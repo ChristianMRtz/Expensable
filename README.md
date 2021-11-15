@@ -2,8 +2,12 @@
 
 MVP of a single page application that handle personal finances..
 
+> Project made with React
+
+## Preview
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82674454/141706942-c9998637-1993-43a2-bb18-e78f65aed0ee.png" />
+  <img width="200" height="400" src="https://user-images.githubusercontent.com/82674454/141706942-c9998637-1993-43a2-bb18-e78f65aed0ee.png" />
 </p>
 
 ### You should...
