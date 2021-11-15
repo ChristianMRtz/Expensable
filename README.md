@@ -2,6 +2,10 @@
 
 MVP of a single page application that handle personal finances..
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82674454/141706942-c9998637-1993-43a2-bb18-e78f65aed0ee.png" />
+</p>
+
 ### You should...
 
 - It should be built with React reusable components.
