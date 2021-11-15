@@ -1,60 +1,8 @@
-## Login Information
-
-The database is seeded so you can start consuming data without creating it from scratch.
-To avoid conflicts between students, each one will work with a unique user. The login
-credentials would be as follow:
-
-```js
-  email: test[n]@mail.com
-  password: 123456
-```
-
-Where `n` is your number in the following list:
-
-1. Aldo Canales
-2. Adrian de la Cruz
-3. Alexander Valladares
-4. Ana Isabel León
-5. Anita Zárate
-6. Andres Scribani
-7. Balvir Purewal
-8. Carlos Yaco
-9. Christian Martos
-10. Cris Laurente
-11. Alex Farfán
-12. David Ortiz
-13. David Rivas
-14. Eder Rocca
-15. Erick Marcelo
-16. Ever Ponce
-17. Gian Palomino
-18. José Heredia
-19. Dulces Regalado
-20. Lore Dávila
-21. Luis Rivera
-22. Luis Talavera
-23. Angel Palma
-24. Mindy León
-25. Nat Linares
-26. Rodrigo Arriarán
-27. Teddy Paz
-
-## Resources
-
-- Design: **[here](https://www.figma.com/file/D138qvf3M8cCO1aM492zwW/Expensable-React?node-id=0%3A1)**
-- Prototype: **[here](https://www.figma.com/proto/D138qvf3M8cCO1aM492zwW/Expensable-React?node-id=601%3A46&viewport=261%2C768%2C0.6882771849632263&scaling=min-zoom)**
-- Github Classroom repo: **[here](https://classroom.github.com/g/TiSmmDkv)**
-- API endpoint: [https://expensable-api.herokuapp.com/](https://expensable-api.herokuapp.com/)
-- API docs: Insomnia JSON file inside Github Classroom repo.
-- Login information: Check readme file on Github Classroom repo
-
 ## React - Expensable
 
-Build a MVP of a single page application that handle personal finances..
+MVP of a single page application that handle personal finances..
 
-### Requirements
-
-The MVP should follow this technical requirements:
+### You should...
 
 - It should be built with React reusable components.
 - It should include Unit tests for, at least, 1 component.
@@ -73,8 +21,6 @@ As a user I want to...
 - Switch between expenses and income using a Navbar
 - Delete one or more categories category.
 - Logout from the app.
-
-👩🏻‍💻 Happy coding! 👨‍💻
 
 ---
 
